@@ -1,0 +1,3 @@
+>>> string2 = "expressions"
+>>> string2.replace("s","$",2)
+'expre$$ions'
